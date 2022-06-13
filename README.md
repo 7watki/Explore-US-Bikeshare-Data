@@ -13,3 +13,4 @@ In this project, I used data provided by Motivate, a bike share system provider 
 
 ![Divvy bicycle sharing system](divvy.jpg "Divvy bicycle sharing system")
 Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs
+ 
