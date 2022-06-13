@@ -11,4 +11,4 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 In this project, I used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
-![Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs](/repository/assets/divvy.jpg?raw=true "Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs")
+![Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs](/Explore-US-Bikeshare-Data/divvy.jpg?raw=true "Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs")
